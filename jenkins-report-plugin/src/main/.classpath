@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Mathu/Work/Projects/HCS/jars/hudson-core-3.0.0.jar"/>
+	<classpathentry kind="lib" path="/Mathu/Work/Projects/HCS/jars/json-lib.jar"/>
+	<classpathentry kind="lib" path="/Mathu/Work/Projects/HCS/jars/stapler-core-3.0.0-m1.jar"/>
+	<classpathentry kind="lib" path="/Mathu/Work/Projects/HCS/jars/javax.servlet-3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
